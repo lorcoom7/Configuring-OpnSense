@@ -1,4 +1,4 @@
-# Configuring-OpnSense
+# Configuring-OPNsense
 OPNsense is an open-source firewall and routing platform based on FreeBSD, known for its strong security and flexible configuration options. Below is a guide to help you set up and configure OPNsense.
 
 1. Download and Install OPNsense
